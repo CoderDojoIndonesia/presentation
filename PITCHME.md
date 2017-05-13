@@ -47,12 +47,12 @@ Proposing a simple-yet-powerful way for IT goers to contribute to the community
 - Open up communication with your Ketua RT/Kepala Dukuh/Kepala Desa. Let's them know! |
 - If you prepare snack/lunch, talk to your neighbourhood. Let's them prepare it |
 - For funding, be creative. Beside free teaching, you can also regularly open up small paid workshop/courses/seminar |
-- Or, proposed up to all those rich Local Startup: they'll gain benefit of us too!
+- Or, proposed up to all those rich Local Startup: they'll gain benefit of us too! |
 
 ---
 ###  What's next?
 - Anyone have the willing to open up CoderDojo in their own village?|
-- Raised your hand!|
+- Raise your hand!|
 
 +++
 ### That's all!
